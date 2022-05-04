@@ -1,5 +1,5 @@
 <section align="center">
-    <img src="./src/assets/cover.png" />
+    <img src="./assets/cover.png" />
 </section>
 
 <h2 align="center">Summary</h2>
@@ -69,4 +69,3 @@ $ npm run dev
 - [x] <a href="https://www.typescriptlang.org/">Typescript</a>
 - [x] <a href="https://tailwindcss.com/">Tailwindcss</a>
 - [x] <a href="https://phosphoricons.com/">Phosphor Icons</a>
-
