@@ -59,6 +59,8 @@ $ npm run dev
 - [x] Accessibility for keyboard only
 - [x] Communication between components through props
 - [x] Loading spinner
+- [x] Complete backend implementation
+- [x] Test automaton with Jest
 
 ---
 
@@ -78,3 +80,4 @@ $ npm run dev
 - [x] <a href="https://www.prisma.io/">Prisma</a>
 - [x] <a href="https://mailtrap.io/">Mailtrap</a>
 - [x] <a href="https://insomnia.rest/">Insomnia</a>
+- [x] <a href="https://jestjs.io/">Jest</a>
