@@ -60,7 +60,7 @@ $ npm run dev
 - [x] Communication between components through props
 - [x] Loading spinner
 - [x] Complete backend implementation
-- [x] Test automaton with Jest
+- [x] Test automation with Jest
 
 ---
 
@@ -73,6 +73,11 @@ $ npm run dev
 - [x] <a href="https://www.typescriptlang.org/">Typescript</a>
 - [x] <a href="https://tailwindcss.com/">Tailwindcss</a>
 - [x] <a href="https://phosphoricons.com/">Phosphor Icons</a>
+
+<h4>Mobile</h4>
+
+- [x] <a href="https://reactnative.dev/">React Native</a>
+- [x] <a href="https://expo.dev/">Expo</a>
 
 <h4>Backend</h4>
 
