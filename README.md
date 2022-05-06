@@ -56,7 +56,7 @@ $ npm run dev
 
 - [x] Declarative interface with Tailwind
 - [x] Screenshot usage on forms
-- [x] Accessibility for keyboard only
+- [x] Accessibility for "keyboard only" users
 - [x] Communication between components through props
 - [x] Loading spinner
 - [x] Complete backend implementation
@@ -78,6 +78,7 @@ $ npm run dev
 
 - [x] <a href="https://reactnative.dev/">React Native</a>
 - [x] <a href="https://expo.dev/">Expo</a>
+- [x] <a href="https://github.com/gorhom/react-native-bottom-sheet">Bottom Sheet</a>
 
 <h4>Backend</h4>
 
