@@ -23,10 +23,7 @@ export function ScreenshotButton({
     >
       {screenshot ? (
         <View>
-          <Image 
-            style={styles.image}
-            source={{ uri: screenshot}}
-          />
+          <Image style={styles.image} source={{ uri: screenshot }} />
           <Trash
             size={22}
             color={theme.colors.text_secondary}

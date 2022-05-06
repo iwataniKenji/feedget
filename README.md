@@ -59,7 +59,8 @@ $ npm run dev
 - [x] Accessibility for "keyboard only" users
 - [x] Communication between components through props
 - [x] Loading spinner
-- [x] Complete backend implementation
+- [x] Mobile version developed with React Native
+- [x] Complete frontend and backend integration
 - [x] Test automation with Jest
 
 ---
@@ -73,6 +74,7 @@ $ npm run dev
 - [x] <a href="https://www.typescriptlang.org/">Typescript</a>
 - [x] <a href="https://tailwindcss.com/">Tailwindcss</a>
 - [x] <a href="https://phosphoricons.com/">Phosphor Icons</a>
+- [x] <a href="https://axios-http.com/">Axios</a>
 
 <h4>Mobile</h4>
 
