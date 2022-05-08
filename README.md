@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="#about">📙 About</a>
-    <!-- <a href="#preview">🖼️ Preview</a> -->
+    <a href="#preview">🖼️ Preview</a>
     <a href="#start">📖 How to Start</a>
     <a href="#features">💡 Features</a>
     <a href="#technologies">💻 Technologies</a>
@@ -22,13 +22,13 @@
 <p>The <strong>Next Level Week</strong> is a whole week coding event based on the development of a complete application using some of the most used tools available on the JavaScript Stack, such as Tailwind, React and React Native. The purpose is all about keep learning, sharing the challenges with other student, making networking and improving on your hard and soft skills.</p>
 <p>This project is originally created on Ignite from <a href="https://www.rocketseat.com.br/">Rocketseat</a> and made by <a href="https://www.linkedin.com/in/kleverson-kenji-iwatani/">Kenji Iwatani</a></p>
 
-<!-- ---
+---
 
 <H2 id="preview">🖼️ Preview</H2>
 
 <section align="center">
-    <img alt="feedget project overview" src="./public/images/preview.gif"/>
-</section> -->
+    <img alt="feedget project overview" src="./assets/preview.gif"/>
+</section>
 
 ---
 
