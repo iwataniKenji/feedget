@@ -16,11 +16,13 @@
    🚧 FeedGet Project on progress... 🚧
 </h4>
 
-<H2 id="about">📙 About</H2>
+<h2 id="about">📙 About</H2>
 
 <p><strong>Feedget</strong> is a useful widget to implement on any application that needs a support area with submit forms. The main feature is that it allows the user to insert the screenshot of the error screen at the moment and send it with the form text when submitted. In addiction, this app is totally well planned for accessibility as well.</p>
 <p>The <strong>Next Level Week</strong> is a whole week coding event based on the development of a complete application using some of the most used tools available on the JavaScript Stack, such as Tailwind, React and React Native. The purpose is all about keep learning, sharing the challenges with other student, making networking and improving on your hard and soft skills.</p>
 <p>This project is originally created on Ignite from <a href="https://www.rocketseat.com.br/">Rocketseat</a> and made by <a href="https://www.linkedin.com/in/kleverson-kenji-iwatani/">Kenji Iwatani</a></p>
+
+<h3><a href="https://feedget-kenji.vercel.app/">Check website &rarr;</a></h3>
 
 ---
 
@@ -60,6 +62,7 @@ $ npm run dev
 - [x] Communication between components through props
 - [x] Loading spinner
 - [x] Mobile version developed with React Native
+- [x] Gesture on mobile version
 - [x] Complete frontend and backend integration
 - [x] Test automation with Jest
 
@@ -80,12 +83,15 @@ $ npm run dev
 
 - [x] <a href="https://reactnative.dev/">React Native</a>
 - [x] <a href="https://expo.dev/">Expo</a>
+- [x] <a href="https://docs.swmansion.com/react-native-reanimated/">Reanimated</a>
 - [x] <a href="https://github.com/gorhom/react-native-bottom-sheet">Bottom Sheet</a>
+- [x] <a href="https://github.com/software-mansion/react-native-gesture-handler">Gesture Handler</a>
 
-<h4>Backend</h4>
+<h4>Backend and Deployment</h4>
 
 - [x] <a href="https://expressjs.com/">Express</a>
 - [x] <a href="https://www.prisma.io/">Prisma</a>
 - [x] <a href="https://mailtrap.io/">Mailtrap</a>
 - [x] <a href="https://insomnia.rest/">Insomnia</a>
 - [x] <a href="https://jestjs.io/">Jest</a>
+- [x] <a href="https://vercel.com/">Vercel</a>
