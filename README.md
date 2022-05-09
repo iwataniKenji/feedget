@@ -13,7 +13,7 @@
 </p>
 
 <h4 align="center">
-   🚧 FeedGet Project on progress... 🚧
+   ✔️ FeedGet project finished ✔️
 </h4>
 
 <h2 id="about">📙 About</H2>
@@ -36,7 +36,7 @@
 
 <H2 id="start">📖 How to Start</H2>
 
-<h3>Starting this repository:</h3>
+<h4>Starting this repository</h3>
 
 ```bash
 # Clone this repository
@@ -44,12 +44,54 @@ $ git clone https://github.com/iwataniKenji/feedget
 
 # Access the project directory
 $ cd feedget
+```
+
+<h4>Server</h4>
+
+```bash
+# Access the "server" folder
+$ cd server
 
 # Install dependencies
 $ npm install
 
-# Initialize and open local host
+# Rename '.env.example' to '.env' and set your env variables
+$ ren ".env.example" ".env"
+
+# With a PostgreSQL running, run the migrations
+$ npx prisma migrate dev
+
+# Start the server
 $ npm run dev
+```
+
+<h4>Web</h4>
+
+```bash
+# Access the "web" folder
+$ cd web
+
+# Install dependencies
+$ npm install
+
+# Make a copy of '.env.local.example' to '.env.local'
+$ ren ".env.example" ".env.local"
+
+# Start the application
+$ npm run dev
+```
+
+<h4>Mobile</h4>
+
+```bash
+# Access the 'mobile' folder
+$ cd mobile
+
+# Install dependencies
+$ npm install
+
+# Start bundle
+$ npm run start
 ```
 
 ---
@@ -95,3 +137,4 @@ $ npm run dev
 - [x] <a href="https://insomnia.rest/">Insomnia</a>
 - [x] <a href="https://jestjs.io/">Jest</a>
 - [x] <a href="https://vercel.com/">Vercel</a>
+- [x] <a href="https://heroku.com">Heroku</a>
