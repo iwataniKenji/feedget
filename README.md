@@ -106,6 +106,7 @@ $ npm run start
 - [x] Mobile version developed with React Native
 - [x] Gesture on mobile version
 - [x] Complete frontend and backend integration
+- [x] Mailtrap to receive and check the information from input sending
 - [x] Test automation with Jest
 
 ---
@@ -138,3 +139,4 @@ $ npm run start
 - [x] <a href="https://jestjs.io/">Jest</a>
 - [x] <a href="https://vercel.com/">Vercel</a>
 - [x] <a href="https://heroku.com">Heroku</a>
+- [x] <a href="https://mailtrap.io/">Mailtrap</a>
