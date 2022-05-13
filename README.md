@@ -20,7 +20,7 @@
 
 <p><strong>Feedget</strong> is a useful widget to implement on any application that needs a support area with submit forms. The main feature is that it allows the user to insert the screenshot of the error screen at the moment and send it with the form text when submitted. In addiction, this app is totally well planned for accessibility as well.</p>
 <p>The <strong>Next Level Week</strong> is a whole week coding event based on the development of a complete application using some of the most used tools available on the JavaScript Stack, such as Tailwind, React and React Native. The purpose is all about keep learning, sharing the challenges with other student, making networking and improving on your hard and soft skills.</p>
-<p>This project is originally created on Ignite from <a href="https://www.rocketseat.com.br/">Rocketseat</a> and made by <a href="https://www.linkedin.com/in/kleverson-kenji-iwatani/">Kenji Iwatani</a></p>
+<p>This project is originally created on Next Level Week from <a href="https://www.rocketseat.com.br/">Rocketseat</a> and made by <a href="https://www.linkedin.com/in/kleverson-kenji-iwatani/">Kenji Iwatani</a></p>
 
 <h3><a href="https://feedget-kenji.vercel.app/">Check website &rarr;</a></h3>
 
